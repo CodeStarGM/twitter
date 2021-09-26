@@ -6,7 +6,7 @@ A Twitter clone created with react and firebase with login and tweet functionali
 
 ## Demo
 
-![Demo](twitter-clone-156cd.web.app/)
+[Live Preview](https://twitter-clone-156cd.web.app/)
 
 Please leave a ⭐ as motivation if you liked the implementation 😄
 <br/>
